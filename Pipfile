@@ -8,6 +8,7 @@ socketio-client = "*"
 trio = "*"
 asks = "*"
 "web3" = "*"
+mypy = "*"
 
 [dev-packages]
 
